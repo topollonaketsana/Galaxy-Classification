@@ -13,3 +13,9 @@ ________________________________________________________________________________
 ## Method
 1. Feature Extraction:
 We will use techniques such as convolutional neural networks (CNNs) to extract features from galaxy images.
+2. Algorithms:
+The project will implement several machine learning algorithms, including, Local Outlier Factor(LOF), KNN
+
+
+## Acknowledgments
+
