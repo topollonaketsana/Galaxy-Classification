@@ -19,6 +19,5 @@ The project will implement several machine learning algorithms, including, Local
 
 ## Acknowledgments
 
-[ESA](https://www.esa.int/)
-### 
+[ESA](https://www.esa.int/) and
 [HST](https://science.nasa.gov/mission/hubble/)
