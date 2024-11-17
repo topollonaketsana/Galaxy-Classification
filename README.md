@@ -8,7 +8,7 @@
 Galaxy classification plays an important role in astrophysics, helping researchers understand the evolution and formation of galaxies. Using ML we can manage to classify galaxies by looking at their morphology.
 
 ## Data
-The project uses galaxy images from Hubble Space Telescope [HST](https://science.nasa.gov/mission/hubble/) and is supported by [ESA](https://www.esa.int/) projects. I will be using galaxy features that has been preprocessed for analysis from ESA DataLabs.
+The project uses galaxy images from Hubble Space Telescope [HST](https://science.nasa.gov/mission/hubble/) and is supported by [ESA](https://www.esa.int/) projects. We will be using galaxy features that has been preprocessed/refined for analysis by ESA DataLabs.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
